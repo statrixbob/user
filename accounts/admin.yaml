@@ -1,12 +1,13 @@
-email: admin@statrix.org
+email: statrixorg@statrix.com
 fullname: 'Bob Harrison'
 title: Administrator
 state: enabled
 access:
   admin:
-    login: true
-    super: true
+    login: 'true'
+    super: 'true'
   site:
-    login: true
+    login: 'true'
 hashed_password: $2y$10$dK2fTpwEGjFiJiX6T6nbyemaX2uWJxAVGPBnQPJqkOSrieE5OQjm.
 reset: '2c52d14e40c007fd8c47931b719b0736::1466622865'
+language: en
