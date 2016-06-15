@@ -3,6 +3,9 @@ title: 'John P. Hammond'
 published: true
 date: '15-06-2016 00:00'
 publish_date: '15-06-2016 00:00'
+summary:
+    enabled: '1'
+    format: short
 taxonomy:
     category:
         - music
@@ -10,7 +13,7 @@ taxonomy:
 
 ![John P. Hammond](http://www.buffalo-music.com/uploads/7/5/6/2/75629929/7601496_orig.jpg)
 
-The past week has been a bluesfest of sorts in the person of John P. Hammond. For those who don't know, he's one of the premier blues artists of our time. You can check him out on the [John P. Hammond Wikipedia article](https://en.wikipedia.org/wiki/John_P._Hammond) or better yet, [his own website](http://www.johnhammond.com).
+The past week has been a big bluesfest of sorts in the person of John P. Hammond. For those who don't know, he's one of the premier blues artists of our time. You can check him out on the [John P. Hammond Wikipedia article](https://en.wikipedia.org/wiki/John_P._Hammond) or better yet, [his own website](http://www.johnhammond.com).
 
 So why a fest?
 
