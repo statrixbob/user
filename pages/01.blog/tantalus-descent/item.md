@@ -1,7 +1,7 @@
 ---
 title: 'Tantalus Descent'
 published: true
-date: '06-22-2016 20:00'
+date: '22-06-2016 20:00'
 process:
     markdown: true
     twig: false
