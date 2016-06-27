@@ -1,5 +1,4 @@
----
-title: 'Auntie Mercy's 84th Birthday Party
+title: 'Auntie Mercys 84th Birthday Party'
 published: true
 date: '26-06-2016 20:00'
 process:
@@ -15,17 +14,17 @@ summary:
 child_type: default
 taxonomy:
     tag:
-        - cycling
-        - bicycle
+        - family
+        - Hilo
     category:
-        - blog
-        - bicycle
+        - family
+        - Hilo
 ---
 
 **Auntie Mercy Rocks Her B-Day!**
 
 ===
-I spent the weekend in Hilo helping my Auntie Mercy celebrate her 84th birthday! She rocks!
+I spent the weekend in Hilo helping my Auntie Mercy celebrate her 84th birthday! She rocks! Really - take a look. 
 
 A good time was had by all. I even got to help a bit when I mc'd the trivia contest and prize drawing. I don't, of course, have photos of that though others may.
 
