@@ -1,7 +1,7 @@
 ---
-title: 'Tantalus Descent'
+title: 'Auntie Mercy - 84th Birthday'
 published: true
-date: '22-06-2016 20:00'
+date: '26-06-2016 20:00'
 process:
     markdown: true
     twig: false
@@ -15,21 +15,20 @@ summary:
 child_type: default
 taxonomy:
     tag:
-        - cycling
-        - bicycle
+        - family
+        - Hilo
     category:
         - blog
-        - bicycle
+        - family
 ---
 
-**360 Video! Tantalus Descent**
 
 ===
 
-I think you'll need to view this video in Chrome...
+**Auntie Mercy Rocks**
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/bL2d9OASvpU" frameborder="0" allowfullscreen></iframe>
+I spent the weekend in Hilo helping my Auntie Mercy celebrate her 84th birthday! She rocks!
 
-It's a 360 degree video of my descent from Tantalus today. I finally got around to climbing it, the first time ever - don't know why I waited so long. It wasn't nearly as difficult as I thought it might be. I didn't even have to, as Erich says, "Go to my special place."
+A good time was had by all. I even got to help a bit when I mc'd the trivia contest and prize drawing. I don't, of course, have photos of that though others may.
 
-Enjoy!
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/mgps-bob/8ve561" title="Auntie Mercy&#x27;s 84th"><img src="https://c8.staticflickr.com/8/7408/27930815055_31b3bf0724_z.jpg" width="640" height="427" alt="Auntie Mercy&#x27;s 84th"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
