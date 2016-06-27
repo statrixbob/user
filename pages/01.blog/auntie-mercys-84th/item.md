@@ -24,7 +24,7 @@ taxonomy:
 **Auntie Mercy Rocks Her B-Day!**
 
 ===
-I spent the weekend in Hilo helping my Auntie Mercy celebrate her 84th birthday! She rocks! Really - take a look. 
+I spent the weekend in Hilo helping my Auntie Mercy celebrate her 84th birthday! She rocks! Really - take a look.
 
 A good time was had by all. I even got to help a bit when I mc'd the trivia contest and prize drawing. I don't, of course, have photos of that though others may.
 
